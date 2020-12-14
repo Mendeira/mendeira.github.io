@@ -300,6 +300,13 @@ input.input100 {
   border-bottom: 1px solid #999999;
 }
 
+.bor3 {
+  border-bottom: 1px solid #F55FA2;
+}
+
+.bor3:hover {
+  border-bottom: none;
+}
 
 
 /*==================================================================

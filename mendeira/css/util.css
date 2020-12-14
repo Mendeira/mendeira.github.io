@@ -24,7 +24,9 @@ body, html {
 
 /*---------------------------------------------*/
 a:focus {outline: none;}
-a:hover {text-decoration: none;}
+a:link {color: #999999; text-decoration: none; }
+a:visited {color: #f55fa2; text-decoration: none;}
+a:hover {color: #f55fa2; text-decoration: none;}
 
 /* ------------------------------------ */
 h1,h2,h3,h4,h5,h6,p {margin: 0px;}
